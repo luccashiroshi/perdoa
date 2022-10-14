@@ -19,6 +19,8 @@ body {
 
 #img {
     display: none;
+    width: 400px;
+    height: 400px;
 }
 
 .buttonContainer button {
